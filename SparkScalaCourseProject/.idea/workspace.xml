@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a593ff84-7d9a-45e5-8662-af56ad4ab609" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/dstream_twitter_2_11_0_1_0_SNAPSHOT1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sparkscalacourseproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sparkscalacourseproject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/PopularHashtags.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLenght.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/SaveTweets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/SaveTweets.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,24 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WordCount.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/drafts/WordCount.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FriendsByAge.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/basicsSpark/FriendsByAge.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="39" column="94" selection-start-line="39" selection-start-column="94" selection-end-line="39" selection-end-column="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="WordCountBetterSorted.scala" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxTemperatures.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaxTemperatures.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/MaxTemperatures.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -95,10 +80,46 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="PopularHashtags.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/PopularHashtags.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="27" selection-end-column="3" />
+              <folding>
+                <element signature="e#37#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AverageTweetLength.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="28" selection-end-column="3" />
+              <folding>
+                <element signature="e#37#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveTweets.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/SaveTweets.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-561">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding>
+                <element signature="e#37#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="PrintTweets.scala" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkStreaming/PrintTweets.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-476">
+            <state relative-caret-position="34">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#37#72#0" expanded="true" />
@@ -142,6 +163,9 @@
         <option value="$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkStreaming/PrintTweets.scala" />
         <option value="$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkStreaming/PopularHashtags.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/PopularHashtags.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLenght.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/SaveTweets.scala" />
       </list>
     </option>
   </component>
@@ -158,6 +182,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,13 +206,6 @@
               <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -204,7 +222,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
@@ -212,7 +230,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
               <item name="basicsSpark" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -221,7 +239,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
               <item name="sparkStreaming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,66 +248,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="drafts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
-              <item name="basicsSpark" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,7 +279,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PopularHashtags">
+  <component name="RunManager" selected="Application.AverageTweetLength">
+    <configuration name="AverageTweetLength" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkStreaming.AverageTweetLength" />
+      <module name="sparkscalacourseproject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.course.sparkStreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="JSONTest (1)" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="local.scala.drafts.JSONTest" />
       <module name="sparkscalacourseproject" />
@@ -328,13 +302,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JSONTest (2)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="local.scala.drafts.JSONTest" />
-      <module name="course-sparkscalacourseproject" />
+    <configuration name="PopularHashtags (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkStreaming.PopularHashtags" />
+      <module name="sparkscalacourseproject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="local.scala.drafts.*" />
+          <option name="PATTERN" value="udemy.course.sparkStreaming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,20 +324,9 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PrintTweets" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkStreaming.PrintTweets" />
-      <module name="course-sparkscalacourseproject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.course.sparkStreaming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SparkStreamingTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkStreaming.SparkStreamingTest" />
-      <module name="course-sparkscalacourseproject" />
+    <configuration name="SaveTweets" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkStreaming.SaveTweets" />
+      <module name="sparkscalacourseproject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -415,18 +378,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.JSONTest (1)" />
-      <item itemvalue="Application.JSONTest (2)" />
-      <item itemvalue="Application.SparkStreamingTest" />
       <item itemvalue="Application.PopularHashtags" />
-      <item itemvalue="Application.PrintTweets" />
+      <item itemvalue="Application.PopularHashtags (1)" />
+      <item itemvalue="Application.SaveTweets" />
+      <item itemvalue="Application.AverageTweetLength" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PopularHashtags" />
-        <item itemvalue="Application.PrintTweets" />
-        <item itemvalue="Application.SparkStreamingTest" />
-        <item itemvalue="Application.JSONTest (2)" />
+        <item itemvalue="Application.AverageTweetLength" />
+        <item itemvalue="Application.SaveTweets" />
+        <item itemvalue="Application.PopularHashtags (1)" />
         <item itemvalue="Application.JSONTest (1)" />
+        <item itemvalue="Application.PopularHashtags" />
       </list>
     </recent_temporary>
   </component>
@@ -514,9 +477,9 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50390625" side_tool="true" visible="true" weight="0.23389831" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5046875" side_tool="true" visible="true" weight="0.23389831" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49609375" visible="true" weight="0.23389831" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4953125" visible="true" weight="0.23389831" />
       <window_info anchor="right" x="343" y="304" width="680" height="126" id="Version Control" order="9" sideWeight="0.49853373" visible="true" weight="0.14375" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49926794" weight="0.3290938" />
       <window_info id="Capture Tool" order="2" />
@@ -568,36 +531,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/ex1CustomerOrders.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="48" />
-          <folding>
-            <element signature="e#45#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/PopularMovies.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-          <folding>
-            <element signature="e#34#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding>
-            <element signature="e#45#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -930,7 +863,7 @@
     </entry>
     <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkStreaming/PrintTweets.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
+        <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#37#72#0" expanded="true" />
@@ -962,17 +895,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/sparkStreaming/PopularHashtags.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/sparkStreaming/PopularHashtags.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/MaxTemperatures.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/PopularHashtags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="27" selection-end-column="3" />
+          <folding>
+            <element signature="e#37#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/SaveTweets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="e#37#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="28" selection-end-column="3" />
+          <folding>
+            <element signature="e#37#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1029,7 +986,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>course-sparkscalacourseproject</last-edited>
+          <last-edited>sparkscalacourseproject</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1054,7 +1011,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>dstream-twitter_2.11-0.1.0-SNAPSHOT</last-edited>
+          <last-edited>dstream-twitter_2.11-0.1.0-SNAPSHOT1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
