@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a593ff84-7d9a-45e5-8662-af56ad4ab609" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/dstream_twitter_2_11_0_1_0_SNAPSHOT1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/sparkscalacourseproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sparkscalacourseproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLenght.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/SaveTweets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/SaveTweets.scala" afterDir="false" />
-    </list>
+    <list default="true" id="a593ff84-7d9a-45e5-8662-af56ad4ab609" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -95,8 +89,8 @@
       <file leaf-file-name="AverageTweetLength.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="28" selection-end-column="3" />
+            <state relative-caret-position="476">
+              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
               <folding>
                 <element signature="e#37#73#0" expanded="true" />
               </folding>
@@ -468,7 +462,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -925,8 +918,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="28" selection-end-column="3" />
+        <state relative-caret-position="476">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
           <folding>
             <element signature="e#37#73#0" expanded="true" />
           </folding>
