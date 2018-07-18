@@ -2,64 +2,179 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a593ff84-7d9a-45e5-8662-af56ad4ab609" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx4.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegression.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegression.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/AverageTweetLength.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/PopularHashtags.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/PopularHashtags.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/PrintTweets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/PrintTweets.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/SaveTweets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/SaveTweets.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionDataFrame$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionDataFrame$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionDataFrame$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionDataFrame$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionDataFrame$$typecreator2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionDataFrame$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionDataFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionRDD$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionRDD$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionRDD$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionRDD$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionRDD$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionRDD$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/LinearRegressionRDD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieRecommendationsALS$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieRecommendationsALS$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieRecommendationsALS$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieRecommendationsALS$$anonfun$loadMovieNames$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieRecommendationsALS$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieRecommendationsALS$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieRecommendationsALS$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieRecommendationsALS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$$anonfun$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$$anonfun$computeCosineSimilarity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$$anonfun$loadMovieNames$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$$anonfun$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$$anonfun$computeCosineSimilarity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$$anonfun$loadMovieNames$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/machineLearningMLLib/MovieSimilarities1M.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/FriendsByAge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/MaxTemperatures.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/MinTemperatures.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/PopularMovies.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/PopularMovies.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/RatingsCounter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/WordCountBetter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/WordCountBetterSorted.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex1CustomerOrders.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/ex1CustomerOrders.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/ex2WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introGraphX/GraphX.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s9/introGraphX/GraphX.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/AverageTweetLength.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s4/introSparkStreaming/AverageTweetLength.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/PopularHashtags.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s4/introSparkStreaming/PopularHashtags.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/PrintTweets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s4/introSparkStreaming/PrintTweets.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/SaveTweets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s4/introSparkStreaming/SaveTweets.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegression.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s8/machineLearningMLLib/LinearRegression.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s8/machineLearningMLLib/LinearRegressionDataFrame.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s8/machineLearningMLLib/MovieRecommendationsALS.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/PopularMovies$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/PopularMovies$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/PopularMovies$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/PopularMovies$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/PopularMovies$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sundogsoftware/spark/PopularMovies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCount$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetter$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetter$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetter$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex1CustomerOrders$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex1CustomerOrders$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex1CustomerOrders$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex1CustomerOrders$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex1CustomerOrders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$$anonfun$makeEdges$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/introGraphX/GraphX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx1$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx2$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx2$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx3$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx3$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx3$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx3$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx3$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/learningScala/LearningScalaEx4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame$$typecreator2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS$$anonfun$loadMovieNames$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/AverageTweetLength$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/AverageTweetLength$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/AverageTweetLength$$anonfun$main$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/AverageTweetLength$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/AverageTweetLength$$anonfun$setupTwitter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/AverageTweetLength$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/AverageTweetLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags$$anonfun$7$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags$$anonfun$setupTwitter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PopularHashtags.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PrintTweets$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PrintTweets$$anonfun$setupTwitter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PrintTweets$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/PrintTweets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/SaveTweets$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/SaveTweets$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/SaveTweets$$anonfun$setupTwitter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/SaveTweets$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkStreaming/SaveTweets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/uudemy/course/sparkScala/machineLearningMLLib/LinearRegressionRDD$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/uudemy/course/sparkScala/machineLearningMLLib/LinearRegressionRDD$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/uudemy/course/sparkScala/machineLearningMLLib/LinearRegressionRDD$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/uudemy/course/sparkScala/machineLearningMLLib/LinearRegressionRDD$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/uudemy/course/sparkScala/machineLearningMLLib/LinearRegressionRDD$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/uudemy/course/sparkScala/machineLearningMLLib/LinearRegressionRDD$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/uudemy/course/sparkScala/machineLearningMLLib/LinearRegressionRDD.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,10 +201,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="GraphX.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introGraphX/GraphX.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s9/introGraphX/GraphX.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="43" />
               <folding>
                 <element signature="e#43#68#0" expanded="true" />
               </folding>
@@ -97,47 +211,92 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LearningScalaEx1.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx1.scala">
+      <file leaf-file-name="LearningScalaEx1.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx1.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state>
               <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LearningScalaEx2.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx2.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx2.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state>
               <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LearningScalaEx3.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx3.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx3.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            <state relative-caret-position="255">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SparkSQL.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s6/sparkSQLDataframesDatasets/SparkSQL.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding>
+                <element signature="e#57#82#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataFrames.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s6/sparkSQLDataframesDatasets/DataFrames.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-102">
+              <caret line="33" column="64" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="64" />
+              <folding>
+                <element signature="e#34#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PopularMoviesDataSets.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s6/sparkSQLDataframesDatasets/PopularMoviesDataSets.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="53" column="63" selection-start-line="53" selection-start-column="63" selection-end-line="53" selection-end-column="63" />
+              <folding>
+                <element signature="e#63#104#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LearningScalaEx4.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx4.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx4.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state>
               <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MaxTemperatures.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/MaxTemperatures.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AverageTweetLength.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s4/introSparkStreaming/AverageTweetLength.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -202,6 +361,10 @@
         <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx1.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx3.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx3.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s6/sparkSQLDataframesDatasets/SparkSQL.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s6/sparkSQLDataframesDatasets/DataFrames.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s6/sparkSQLDataframesDatasets/PopularMoviesDataSets.scala" />
       </list>
     </option>
   </component>
@@ -242,21 +405,6 @@
               <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -266,6 +414,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkSQLDataframesDatasets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
@@ -275,33 +432,6 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
               <item name="introGraphX" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
-              <item name="learningScala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
-              <item name="machineLearningMLLib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
-              <item name="SparkBasicsSimpleExamples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -334,58 +464,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LearningScalaEx4">
-    <configuration name="LearningScala2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.learningScala.LearningScala2" />
+  <component name="RunManager" selected="Application.PopularMoviesDataSets">
+    <configuration name="DataFrames" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.s6.sparkSQLDataframesDatasets.DataFrames" />
       <module name="sparkscalacourseproject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.course.sparkScala.learningScala.*" />
+          <option name="PATTERN" value="udemy.course.sparkScala.s6.sparkSQLDataframesDatasets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LearningScalaEx1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.learningScala.LearningScalaEx1" />
+    <configuration name="GraphX" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.s9.introGraphX.GraphX" />
       <module name="sparkscalacourseproject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.course.sparkScala.learningScala.*" />
+          <option name="PATTERN" value="udemy.course.sparkScala.s9.introGraphX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LearningScalaEx2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.learningScala.LearningScalaEx2" />
+    <configuration name="PopularMoviesDataSets" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.s6.sparkSQLDataframesDatasets.PopularMoviesDataSets" />
       <module name="sparkscalacourseproject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.course.sparkScala.learningScala.*" />
+          <option name="PATTERN" value="udemy.course.sparkScala.s6.sparkSQLDataframesDatasets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LearningScalaEx3" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.learningScala.LearningScalaEx3" />
+    <configuration name="PrintTweets" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.s4.introSparkStreaming.PrintTweets" />
       <module name="sparkscalacourseproject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.course.sparkScala.learningScala.*" />
+          <option name="PATTERN" value="udemy.course.sparkScala.s4.introSparkStreaming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LearningScalaEx4" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.learningScala.LearningScalaEx4" />
+    <configuration name="SparkSQL" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.s6.sparkSQLDataframesDatasets.SparkSQL" />
       <module name="sparkscalacourseproject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.course.sparkScala.learningScala.*" />
+          <option name="PATTERN" value="udemy.course.sparkScala.s6.sparkSQLDataframesDatasets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -432,19 +562,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.LearningScala2" />
-      <item itemvalue="Application.LearningScalaEx1" />
-      <item itemvalue="Application.LearningScalaEx2" />
-      <item itemvalue="Application.LearningScalaEx3" />
-      <item itemvalue="Application.LearningScalaEx4" />
+      <item itemvalue="Application.PrintTweets" />
+      <item itemvalue="Application.GraphX" />
+      <item itemvalue="Application.SparkSQL" />
+      <item itemvalue="Application.DataFrames" />
+      <item itemvalue="Application.PopularMoviesDataSets" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LearningScalaEx4" />
-        <item itemvalue="Application.LearningScalaEx3" />
-        <item itemvalue="Application.LearningScalaEx2" />
-        <item itemvalue="Application.LearningScalaEx1" />
-        <item itemvalue="Application.LearningScala2" />
+        <item itemvalue="Application.PopularMoviesDataSets" />
+        <item itemvalue="Application.DataFrames" />
+        <item itemvalue="Application.SparkSQL" />
+        <item itemvalue="Application.GraphX" />
+        <item itemvalue="Application.PrintTweets" />
       </list>
     </recent_temporary>
   </component>
@@ -523,23 +653,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4969743" weight="0.32838285" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49621785" weight="0.32838285" />
       <window_info anchor="right" id="sbt" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5098336" side_tool="true" visible="true" weight="0.23267327" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5121029" side_tool="true" visible="true" weight="0.23267327" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" x="343" y="304" width="680" height="126" id="Version Control" order="9" sideWeight="0.49853373" visible="true" weight="0.14372164" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49016643" visible="true" weight="0.23267327" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49926794" weight="0.3290938" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48789713" visible="true" weight="0.23267327" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49848714" weight="0.32838285" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2708018" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2708018" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="10" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.32838285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -586,31 +715,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/json/JSONTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/PopularMovies.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/PopularMovies.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="e#34#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -621,21 +732,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/RatingsCounter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/MinTemperatures.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCount.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/WordCount.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
@@ -645,35 +756,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetter.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/WordCountBetter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/WordCountBetterSorted.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/FriendsByAge.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="39" column="97" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="97" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/PopularMovies.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/PopularMovies.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="e#34#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge.scala">
+    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/FriendsByAge.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="39" column="94" selection-start-line="39" selection-start-column="94" selection-end-line="39" selection-end-column="94" />
@@ -687,14 +801,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted.scala">
+    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/WordCountBetterSorted.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures.scala">
+    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/MaxTemperatures.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="26" column="49" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="49" />
@@ -705,6 +819,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#37#72#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -726,11 +843,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="52" column="63" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
+          <folding>
+            <element signature="e#37#72#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/sparkStreaming/PopularHashtags.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/SaveTweets.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s4/introSparkStreaming/SaveTweets.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
@@ -740,7 +860,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/PrintTweets.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s4/introSparkStreaming/PrintTweets.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-425">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
@@ -761,7 +881,7 @@
     <entry file="file://$PROJECT_DIR$/target/.history">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/ex2WordCount.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
@@ -813,17 +933,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/AverageTweetLength.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="35" />
-          <folding>
-            <element signature="e#37#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introSparkStreaming/PopularHashtags.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s4/introSparkStreaming/PopularHashtags.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="21" column="53" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="53" />
@@ -850,14 +960,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex1CustomerOrders.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/ex1CustomerOrders.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="32" selection-start-column="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegression.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s8/machineLearningMLLib/LinearRegression.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="33" selection-start-column="33" selection-end-column="33" />
@@ -867,7 +977,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s8/machineLearningMLLib/LinearRegressionDataFrame.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="32" selection-start-column="32" selection-end-column="32" />
@@ -877,7 +987,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s8/machineLearningMLLib/MovieRecommendationsALS.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="32" selection-start-column="32" selection-end-column="32" />
@@ -887,17 +997,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s2/sparkBasicsSimpleExamples/MaxTemperatures.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/introGraphX/GraphX.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s9/introGraphX/GraphX.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="43" />
           <folding>
             <element signature="e#43#68#0" expanded="true" />
           </folding>
@@ -932,31 +1041,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx4.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx4.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state>
           <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx3.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx2.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state>
           <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/learningScala/LearningScalaEx1.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state>
           <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s1/learningScala/LearningScalaEx3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s4/introSparkStreaming/AverageTweetLength.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s6/sparkSQLDataframesDatasets/SparkSQL.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="e#57#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s6/sparkSQLDataframesDatasets/PopularMoviesDataSets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="53" column="63" selection-start-line="53" selection-start-column="63" selection-end-line="53" selection-end-column="63" />
+          <folding>
+            <element signature="e#63#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/s6/sparkSQLDataframesDatasets/DataFrames.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="33" column="64" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="64" />
+          <folding>
+            <element signature="e#34#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
