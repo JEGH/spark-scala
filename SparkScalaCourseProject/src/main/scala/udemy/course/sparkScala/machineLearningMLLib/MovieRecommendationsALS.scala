@@ -1,4 +1,4 @@
-package udemy.course.machineLearningMLLib
+package udemy.course.sparkScala.machineLearningMLLib
 
 import java.nio.charset.CodingErrorAction
 

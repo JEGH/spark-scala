@@ -1,4 +1,4 @@
-package com.sundogsoftware.spark
+package udemy.course.sparkScala.machineLearningMLLib
 
 import org.apache.log4j._
 import org.apache.spark.ml.linalg.Vectors
