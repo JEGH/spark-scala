@@ -2,12 +2,126 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a593ff84-7d9a-45e5-8662-af56ad4ab609" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ConsumerExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ConsumerExample2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/KafkaExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ProducerExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ProducerExample2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/dstream_twitter_2_11_0_1_0_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sparkscalacourseproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sparkscalacourseproject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1531845584000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1531845584000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1531845586000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1531845586000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1531845588000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1531845588000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1531845590000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1531845590000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1531845592000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1531845592000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1531845584000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1531845584000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1531845586000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1531845586000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1531845588000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1531845588000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1531845590000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1531845590000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1531845592000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1531845592000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1531845574315-1531845634315" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/local/scala/drafts/JSONTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/local/scala/json/JSONTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/local/scala/drafts/KafkaSparkTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/local/scala/drafts/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/FriendsByAge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/MaxTemperatures.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/MinTemperatures.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/PopularMovies.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/PopularMovies.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/RatingsCounter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/ex1CustomerOrders.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex1CustomerOrders.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ConsumerExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/ConsumerExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ConsumerExample2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/ConsumerExample2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/KafkaExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/KafkaExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ProducerExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/ProducerExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ProducerExample2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/ProducerExample2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/JSONTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/JSONTest$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/JSONTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/KafkaSparkTest$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/KafkaSparkTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/KafkaSparkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/WordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/WordCount$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/WordCount$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/WordCount$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/WordCount$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/local/scala/drafts/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/FriendsByAge$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/FriendsByAge$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/FriendsByAge$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/FriendsByAge$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/FriendsByAge$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/FriendsByAge$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/FriendsByAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MaxTemperatures$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MaxTemperatures$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MaxTemperatures$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MaxTemperatures$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MaxTemperatures$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MaxTemperatures$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MaxTemperatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MinTemperatures$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MinTemperatures$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MinTemperatures$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MinTemperatures$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MinTemperatures$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MinTemperatures$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/MinTemperatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/RatingsCounter$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/RatingsCounter$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/RatingsCounter$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/RatingsCounter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/RatingsCounter$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/RatingsCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCount$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetter$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetter$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetter$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/ex1CustomerOrders$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/ex1CustomerOrders$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/ex1CustomerOrders$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/ex1CustomerOrders$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/basicsSpark/ex1CustomerOrders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ConsumerExample$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ConsumerExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ConsumerExample$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ConsumerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ConsumerExample2$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ConsumerExample2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ConsumerExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/KafkaExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/KafkaExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ProducerExample$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ProducerExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ProducerExample$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ProducerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ProducerExample2$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ProducerExample2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/udemy/course/sparkScala/sparkKafka/ProducerExample2.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,8 +150,8 @@
       <file leaf-file-name="PopularHashtags.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/PopularHashtags.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="52" column="63" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
+            <state relative-caret-position="134">
+              <caret line="21" column="53" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="53" />
               <folding>
                 <element signature="e#37#72#0" expanded="true" />
               </folding>
@@ -45,75 +159,88 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".history" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/.history">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="KafkaSparkTest.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/drafts/KafkaSparkTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="31" selection-end-column="69" />
-              <folding>
-                <element signature="e#28#72#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="KafkaExample.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/KafkaExample.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/KafkaExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+            <state relative-caret-position="136">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ProducerExample.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ProducerExample.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/ProducerExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#71#98#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ProducerExample2.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ProducerExample2.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/ProducerExample2.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="51">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding>
-                <element signature="e#43#70#0" expanded="true" />
+                <element signature="e#32#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConsumerExample2.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ConsumerExample2.scala">
+      <file leaf-file-name="MovieRecommendationsALS.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="23" column="53" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="53" />
+              <folding>
+                <element signature="e#37#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieSimilarities.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieSimilarities.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1790">
+              <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+              <folding>
+                <element signature="e#43#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieSimilarities1M.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieSimilarities1M.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinearRegression.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegression.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="22" column="54" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="56" />
+              <folding>
+                <element signature="e#34#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinearRegressionDataFrame.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="23" column="90" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
+              <caret line="30" column="69" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
               <folding>
-                <element signature="e#43#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConsumerExample.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ConsumerExample.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="35" />
-              <folding>
-                <element signature="e#44#60#0" expanded="true" />
+                <element signature="e#34#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,22 +249,10 @@
       <file leaf-file-name="AverageTweetLength.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
+            <state>
+              <caret selection-end-column="35" />
               <folding>
                 <element signature="e#37#73#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SaveTweets.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/SaveTweets.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-561">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-              <folding>
-                <element signature="e#37#72#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -185,6 +300,14 @@
         <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ProducerExample2.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ProducerExample.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ConsumerExample2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/local/scala/json/KafkaSparkTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/local/scala/json/ex2WordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/ex2WordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieSimilarities1M.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieSimilarities.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegression.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame.scala" />
       </list>
     </option>
   </component>
@@ -200,8 +323,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,6 +348,13 @@
               <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkScalaCourseProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -233,7 +363,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="drafts" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
@@ -250,7 +380,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="sparkScala" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkKafka" type="462c0819:PsiDirectoryNode" />
+              <item name="machineLearningMLLib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
@@ -265,7 +395,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,25 +422,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConsumerExample2">
-    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.sparkKafka.ConsumerExample" />
+  <component name="RunManager" selected="Application.MovieRecommendationsALS">
+    <configuration name="LinearRegressionDataFrame" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sundogsoftware.spark.LinearRegressionDataFrame" />
       <module name="sparkscalacourseproject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.course.sparkScala.sparkKafka.*" />
+          <option name="PATTERN" value="com.sundogsoftware.spark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ConsumerExample2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.sparkKafka.ConsumerExample2" />
+    <configuration name="LinearRegressionRDD" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sundogsoftware.spark.LinearRegressionRDD" />
       <module name="sparkscalacourseproject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.course.sparkScala.sparkKafka.*" />
+          <option name="PATTERN" value="com.sundogsoftware.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MovieRecommendationsALS" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.course.machineLearningMLLib.MovieRecommendationsALS" />
+      <module name="sparkscalacourseproject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.course.machineLearningMLLib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MovieSimilarities" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.course.machineLearningMLLib.MovieSimilarities" />
+      <module name="sparkscalacourseproject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.course.machineLearningMLLib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,28 +474,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="udemy.course.sparkStreaming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ProducerExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.sparkKafka.ProducerExample" />
-      <module name="sparkscalacourseproject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.course.sparkScala.sparkKafka.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ProducerExample2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.course.sparkScala.sparkKafka.ProducerExample2" />
-      <module name="sparkscalacourseproject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.course.sparkScala.sparkKafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,17 +521,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.PrintTweets" />
-      <item itemvalue="Application.ProducerExample" />
-      <item itemvalue="Application.ConsumerExample" />
-      <item itemvalue="Application.ProducerExample2" />
-      <item itemvalue="Application.ConsumerExample2" />
+      <item itemvalue="Application.MovieRecommendationsALS" />
+      <item itemvalue="Application.MovieSimilarities" />
+      <item itemvalue="Application.LinearRegressionRDD" />
+      <item itemvalue="Application.LinearRegressionDataFrame" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConsumerExample2" />
-        <item itemvalue="Application.ProducerExample2" />
-        <item itemvalue="Application.ProducerExample" />
-        <item itemvalue="Application.ConsumerExample" />
+        <item itemvalue="Application.MovieRecommendationsALS" />
+        <item itemvalue="Application.LinearRegressionDataFrame" />
+        <item itemvalue="Application.LinearRegressionRDD" />
+        <item itemvalue="Application.MovieSimilarities" />
         <item itemvalue="Application.PrintTweets" />
       </list>
     </recent_temporary>
@@ -481,59 +611,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.33828384" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49621785" weight="0.32838285" />
-      <window_info anchor="right" id="sbt" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5136157" side_tool="true" visible="true" weight="0.48019803" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48638427" weight="0.48019803" />
-      <window_info anchor="right" x="343" y="304" width="680" height="126" id="Version Control" order="9" sideWeight="0.49853373" visible="true" weight="0.1452345" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49838188" weight="0.32830626" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987715" visible="true" weight="0.25718608" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="10" sideWeight="0.49848714" weight="0.32838285" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Structure" order="1" sideWeight="0.5012285" side_tool="true" weight="0.25718608" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49926794" weight="0.3290938" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="10" />
-      <window_info anchor="right" x="343" y="304" width="680" height="126" id="Version Control" order="9" sideWeight="0.49853373" visible="true" weight="0.14375" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4953125" visible="true" weight="0.23389831" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5046875" side_tool="true" visible="true" weight="0.23389831" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49848714" weight="0.32838285" />
       <window_info anchor="right" id="sbt" order="4" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.3290938" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49926686" weight="0.32903227" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50832075" side_tool="true" visible="true" weight="0.23267327" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26640624" />
+      <window_info anchor="right" x="343" y="304" width="680" height="126" id="Version Control" order="9" sideWeight="0.49853373" visible="true" weight="0.14372164" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49167928" visible="true" weight="0.23267327" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49926794" weight="0.3290938" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2708018" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="10" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.32838285" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3290938" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -566,76 +674,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/PopularMovies.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-          <folding>
-            <element signature="e#34#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding>
-            <element signature="e#45#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/MinTemperatures.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/drafts/JSONTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/json/JSONTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/drafts/KafkaSparkTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/json/KafkaSparkTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/drafts/WordCount.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/FriendsByAge.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="39" column="97" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="97" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/ex1CustomerOrders.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex1CustomerOrders.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="48" />
@@ -645,14 +712,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/MaxTemperatures.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCount.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCount.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
@@ -662,48 +729,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetter.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/MinTemperatures.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/drafts/JSONTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/json/JSONTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/RatingsCounter.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/PopularMovies.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/PopularMovies.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-          <folding>
-            <element signature="e#34#59#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,21 +778,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/RatingsCounter.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/RatingsCounter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/MinTemperatures.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MinTemperatures.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCount.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCount.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
@@ -738,28 +802,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetter.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/FriendsByAge.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="39" column="97" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="97" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/ex1CustomerOrders.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex1CustomerOrders.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="48" />
@@ -769,52 +833,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/PopularMovies.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/PopularMovies.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-          <folding>
-            <element signature="e#34#59#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/drafts/JSONTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/drafts/WordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/basicsSpark/FriendsByAge.scala">
+    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/FriendsByAge.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="39" column="94" selection-start-line="39" selection-start-column="94" selection-end-line="39" selection-end-column="94" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/local/scala/drafts/JSONTest.scala">
+    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/local/scala/json/JSONTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/basicsSpark/WordCountBetterSorted.scala">
+    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/WordCountBetterSorted.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/basicsSpark/MaxTemperatures.scala">
+    <entry file="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="26" column="49" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="49" />
@@ -825,9 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#37#72#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -849,49 +893,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="52" column="63" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
-          <folding>
-            <element signature="e#37#72#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/sparkStreaming/PopularHashtags.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/basicsSpark/MaxTemperatures.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/MaxTemperatures.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/PopularHashtags.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="52" column="63" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
-          <folding>
-            <element signature="e#37#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/SaveTweets.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561">
+        <state relative-caret-position="85">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding>
             <element signature="e#37#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/.history">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
-          <folding>
-            <element signature="e#37#73#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -903,36 +921,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/package.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/json/KafkaSparkTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ProducerExample.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#71#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ProducerExample2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#43#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/drafts/KafkaSparkTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="97">
           <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="31" selection-end-column="69" />
           <folding>
             <element signature="e#28#72#0" expanded="true" />
@@ -940,29 +932,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/KafkaExample.scala">
+    <entry file="file://$PROJECT_DIR$/target/.history">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/SparkBasicsSimpleExamples/ex2WordCount.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        <state relative-caret-position="17">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ConsumerExample.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/json/JSONTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/ConsumerExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/ConsumerExample2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/KafkaExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/ProducerExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/local/scala/sparkKafka/ProducerExample2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding>
-            <element signature="e#44#60#0" expanded="true" />
+            <element signature="e#32#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkKafka/ConsumerExample2.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/AverageTweetLength.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="35" />
+          <folding>
+            <element signature="e#37#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/sparkStreaming/PopularHashtags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="53" />
+          <folding>
+            <element signature="e#37#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieSimilarities.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1790">
+          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+          <folding>
+            <element signature="e#43#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieSimilarities1M.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/MovieRecommendationsALS.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="23" column="53" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="53" />
+          <folding>
+            <element signature="e#37#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="56" />
+          <folding>
+            <element signature="e#34#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/udemy/course/sparkScala/machineLearningMLLib/LinearRegressionDataFrame.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="23" column="90" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
+          <caret line="30" column="69" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
           <folding>
-            <element signature="e#43#59#0" expanded="true" />
+            <element signature="e#34#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1045,7 +1132,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>dstream-twitter_2.11-0.1.0-SNAPSHOT1</last-edited>
+          <last-edited>dstream-twitter_2.11-0.1.0-SNAPSHOT2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
