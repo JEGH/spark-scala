@@ -32,10 +32,11 @@ libraryDependencies += "org.apache.spark" %% "spark-streaming-kafka-0-10" % spar
 //libraryDependencies += "com.cloudera.spark" %% "spark-core" % sparkVersion
 
 
-
 libraryDependencies += "commons-lang" % "commons-lang" % "2.6"
 
 libraryDependencies += "com.typesafe.play" %% "play-json" % "2.6.7"
+
+
 
 //libraryDependencies += "org.apache.kudu:kudu-spark2_2.11:1.4.0"
 //libraryDependencies += "org.apache.kudu" %% "kudu-spark" % "1.6.0-cdh5.14.2"

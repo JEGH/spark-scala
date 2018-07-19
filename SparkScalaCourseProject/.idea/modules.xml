@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/.idea/modules/SparkScalaCourseProject-sparkscalacourseproject-build.iml" filepath="$USER_HOME$/NOS/course/SparkScalaCourseProject/.idea/modules/SparkScalaCourseProject-sparkscalacourseproject-build.iml" />
-      <module fileurl="file://$USER_HOME$/NOS/course/SparkScalaCourseProject/.idea/modules/course-sparkscalacourseproject.iml" filepath="$USER_HOME$/NOS/course/SparkScalaCourseProject/.idea/modules/course-sparkscalacourseproject.iml" />
+      <module fileurl="file://$USER_HOME$/NOS/course/.idea/modules/course.iml" filepath="$USER_HOME$/NOS/course/.idea/modules/course.iml" />
+      <module fileurl="file://$USER_HOME$/NOS/course/.idea/modules/course-build.iml" filepath="$USER_HOME$/NOS/course/.idea/modules/course-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkscalacourseproject.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkscalacourseproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkscalacourseproject-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkscalacourseproject-build.iml" />
     </modules>
