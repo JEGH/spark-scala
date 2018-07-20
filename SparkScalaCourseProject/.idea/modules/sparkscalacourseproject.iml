@@ -189,5 +189,7 @@
     <orderEntry type="library" name="sbt: com.101tec:zkclient:0.8:jar" level="project" />
     <orderEntry type="library" name="dstream-twitter_2.11-0.1.0-SNAPSHOT1" level="project" />
     <orderEntry type="library" name="dstream-twitter_2.11-0.1.0-SNAPSHOT2" level="project" />
+    <orderEntry type="library" name="com.datastax.spark:spark-cassandra-connector_2.11:2.0.8" level="project" />
+    <orderEntry type="library" name="org.elasticsearch:elasticsearch-spark-20_2.11:5.0.0-beta1" level="project" />
   </component>
 </module>

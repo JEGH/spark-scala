@@ -37,6 +37,10 @@ libraryDependencies += "commons-lang" % "commons-lang" % "2.6"
 libraryDependencies += "com.typesafe.play" %% "play-json" % "2.6.7"
 
 
+libraryDependencies += "com.datastax.spark" %% "spark-cassandra-connector_2.11"% "2.0.8"
+
+libraryDependencies += "org.elasticsearch" %% "elasticsearch-spark-20_2.11" % "5.0.0-beta1"
+
 
 //libraryDependencies += "org.apache.kudu:kudu-spark2_2.11:1.4.0"
 //libraryDependencies += "org.apache.kudu" %% "kudu-spark" % "1.6.0-cdh5.14.2"

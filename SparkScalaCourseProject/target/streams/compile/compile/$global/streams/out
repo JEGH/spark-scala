@@ -1,0 +1,82 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s4\introSparkStreaming\AverageTweetLength.scala:6:35: object twitter is not a member of package org.apache.spark.streaming[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.streaming.twitter._[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s4\introSparkStreaming\AverageTweetLength.scala:44:18: not found: value TwitterUtils[0m
+[0m[[0m[31merror[0m] [0m[0m    val tweets = TwitterUtils.createStream(ssc, None)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s4\introSparkStreaming\PopularHashtags.scala:4:35: object twitter is not a member of package org.apache.spark.streaming[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.streaming.twitter._[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s4\introSparkStreaming\PopularHashtags.scala:44:18: not found: value TwitterUtils[0m
+[0m[[0m[31merror[0m] [0m[0m    val tweets = TwitterUtils.createStream(ssc, None)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s4\introSparkStreaming\PrintTweets.scala:4:35: object twitter is not a member of package org.apache.spark.streaming[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.streaming.twitter._[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s4\introSparkStreaming\PrintTweets.scala:40:18: not found: value TwitterUtils[0m
+[0m[[0m[31merror[0m] [0m[0m    val tweets = TwitterUtils.createStream(ssc, None)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s4\introSparkStreaming\SaveTweets.scala:4:35: object twitter is not a member of package org.apache.spark.streaming[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.streaming.twitter._[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s4\introSparkStreaming\SaveTweets.scala:40:18: not found: value TwitterUtils[0m
+[0m[[0m[31merror[0m] [0m[0m    val tweets = TwitterUtils.createStream(ssc, None)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\LinearRegression.scala:5:25: object mllib is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.mllib.optimization.SquaredL2Updater[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\LinearRegression.scala:6:25: object mllib is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.mllib.regression.{LabeledPoint, LinearRegressionWithSGD}[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\LinearRegression.scala:31:42: not found: value LabeledPoint[0m
+[0m[[0m[31merror[0m] [0m[0m    val trainingData = trainingLines.map(LabeledPoint.parse).cache()[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\LinearRegression.scala:32:37: not found: value LabeledPoint[0m
+[0m[[0m[31merror[0m] [0m[0m    val testData = testingLines.map(LabeledPoint.parse)[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\LinearRegression.scala:37:25: not found: type LinearRegressionWithSGD[0m
+[0m[[0m[31merror[0m] [0m[0m    val algorithm = new LinearRegressionWithSGD()[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\LinearRegressionDataFrame.scala:4:25: object ml is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.ml.linalg.Vectors[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\LinearRegressionDataFrame.scala:5:25: object ml is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.ml.regression.LinearRegression[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\LinearRegressionDataFrame.scala:32:70: not found: value Vectors[0m
+[0m[[0m[31merror[0m] [0m[0m    val data = inputLines.map(_.split(",")).map(x => (x(0).toDouble, Vectors.dense(x(1).toDouble)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\LinearRegressionDataFrame.scala:37:19: value toDF is not a member of org.apache.spark.rdd.RDD[Nothing][0m
+[0m[[0m[31merror[0m] [0m[0m    val df = data.toDF(colNames: _*)[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\LinearRegressionDataFrame.scala:49:19: not found: type LinearRegression[0m
+[0m[[0m[31merror[0m] [0m[0m    val lir = new LinearRegression()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\MovieRecommendationsALS.scala:7:25: object mllib is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.mllib.recommendation._[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\MovieRecommendationsALS.scala:49:60: not found: value Rating[0m
+[0m[[0m[31merror[0m] [0m[0m    val ratings = data.map( x => x.split('\t') ).map( x => Rating(x(0).toInt, x(1).toInt, x(2).toDouble) ).cache()[0m
+[0m[[0m[31merror[0m] [0m[0m                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s8\machineLearningMLLib\MovieRecommendationsALS.scala:57:17: not found: value ALS[0m
+[0m[[0m[31merror[0m] [0m[0m    val model = ALS.train(ratings, rank, numIterations)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s9\introGraphX\GraphX.scala:5:25: object graphx is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.graphx._[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s9\introGraphX\GraphX.scala:11:42: not found: type VertexId[0m
+[0m[[0m[31merror[0m] [0m[0m  def parseNames(line: String) : Option[(VertexId, String)] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s9\introGraphX\GraphX.scala:24:38: not found: type Edge[0m
+[0m[[0m[31merror[0m] [0m[0m  def makeEdges(line: String) : List[Edge[Int]] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s9\introGraphX\GraphX.scala:26:32: not found: type Edge[0m
+[0m[[0m[31merror[0m] [0m[0m    var edges = new ListBuffer[Edge[Int]]()[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s9\introGraphX\GraphX.scala:57:17: not found: value Graph[0m
+[0m[[0m[31merror[0m] [0m[0m    val graph = Graph(verts, edges, default).cache()[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\johenriques\JEGH\Repos\SparkScalaCourseProject\src\main\scala\udemy\course\sparkScala\s9\introGraphX\GraphX.scala:69:15: not found: type VertexId[0m
+[0m[[0m[31merror[0m] [0m[0m    val root: VertexId = 5306 // SpiderMan[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m27 errors found[0m

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="com.datastax.spark:spark-cassandra-connector_2.11:2.0.8" type="repository">
+    <properties maven-id="com.datastax.spark:spark-cassandra-connector_2.11:2.0.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/datastax/spark/spark-cassandra-connector_2.11/2.0.8/spark-cassandra-connector_2.11-2.0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/joda/joda-convert/1.2/joda-convert-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/jsr166e/1.1.0/jsr166e-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.33.Final/netty-all-4.0.33.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.3/joda-time-2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

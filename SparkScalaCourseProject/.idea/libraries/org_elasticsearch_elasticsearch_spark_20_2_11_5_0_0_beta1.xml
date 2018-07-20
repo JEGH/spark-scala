@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.elasticsearch:elasticsearch-spark-20_2.11:5.0.0-beta1" type="repository">
+    <properties maven-id="org.elasticsearch:elasticsearch-spark-20_2.11:5.0.0-beta1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch-spark-20_2.11/5.0.0-beta1/elasticsearch-spark-20_2.11-5.0.0-beta1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.0/spark-sql_2.11-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
