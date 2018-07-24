@@ -1,6 +1,8 @@
 # Sapark Streaming Examples 
 
-O projeto está a usar as seguintes versões:
+## Setup
+
+O projeto está usar os seguintes componentes:
 
 * JDK: 1.8.121
 * Scala: 2.11.8
@@ -31,3 +33,22 @@ Caso não tenha sido criar uma variavel de ambiente
 para o ncat, o comando deverá ser executado a 
 partir da pasta de instalação.
 
+## Session 6
+
+### Lesson 24 - Integration with Kafka
+
+Nesta etapa é necessário garantir o funcionamento
+do Kafka, este procedimento poderá ser feito 
+em local, parece isso será necessário configurar
+o Kafka e Zookeeper para que seja possível a ingestão
+de dados.
+
+## References
+
+https://hortonworks.com/tutorial/setting-up-a-spark-development-environment-with-scala/
+
+https://hortonworks.com/tutorial/setting-up-a-spark-development-environment-with-python/
+
+https://dzone.com/articles/running-apache-kafka-on-windows-os
+
+https://www.scala-sbt.org/download.html
